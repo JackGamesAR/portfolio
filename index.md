@@ -42,4 +42,8 @@ The custom bot I coded for my server. It has features such as: a currency system
 
 ### EzTickets:
 
-This is my public ticket support bot. It is designed to
+This is my public ticket support bot. It is designed to make setting up a ticket system very easy. All a user has to do is invite the bot to their server, type -setup, and the bot automatically creates a channel for opening tickets, and creates a role to give to people who can deal with tickets. When a ticket needs to be closed, they can use -close, and confirm the ticket closing by clicking a button (part of Discord's "button" feature, which this bot uses). It is currently in 48 servers, can be viewed on top.gg [here](https://top.gg/bot/859823886895677471) or via it's website - [eztickets.jackgames.net](https://eztickets.jackgames.net)
+
+### VW Bot:
+
+This is a custom bot for my friend Emma's server. It is used for the ticket system in her server. It is similar to the ticket system in my server (Jack's Hangout), but without the other feautures, besides the ticket system. You can check it out [here](https://discord.gg/sQvTCZh3UX)
