@@ -67,3 +67,8 @@ I upload about 1-2 videos per month.
 
 I currently have 380+ subscribers, 55,000+ views accross the whole channel, 1,300 watch hours from viewers, and 300,000+ impressions (people who saw something to do with my channel, even if they didn't watch or click)
 
+## Summary:
+
+If you've read this portfolio, thank you! I hope that you can see and understand some of my key areas in online commmunities, moderation, and development - this hopefully shows that I am a suitable candidate for applying to servers, etc... If you want to reach out to me about this portfolio or something else, then you can join my Discord server [here](https://discord.gg/2thPqQWJsR), find the 🎟make-a-ticket🎟 channel, and open a ticket!
+
+Have a good day!
