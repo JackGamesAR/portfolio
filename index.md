@@ -47,3 +47,23 @@ This is my public ticket support bot. It is designed to make setting up a ticket
 ### VW Bot:
 
 This is a custom bot for my friend Emma's server. It is used for the ticket system in her server. It is similar to the ticket system in my server (Jack's Hangout), but without the other feautures, besides the ticket system. You can check it out [here](https://discord.gg/sQvTCZh3UX)
+
+## YouTube!
+
+
+_I also have a YouTube Channel - [JackGamesAndReviews](https://youtube.com/jackgamesandreviews)_
+
+[https://youtube.com/jackgamesandreviews](https://youtube.com/jackgamesandreviews)
+
+### Content:
+
+I generally upload videos from Hypixel Skyblock, such as explaining updates, changes, etc... however I occasionally make videos about other Hypixel stuff, or sometimes funny sketches, etc...
+
+### Upload Schedule:
+
+I upload about 1-2 videos per month.
+
+### Stats:
+
+I currently have 380+ subscribers, 55,000+ views accross the whole channel, 1,300 watch hours from viewers, and 300,000+ impressions (people who saw something to do with my channel, even if they didn't watch or click)
+
