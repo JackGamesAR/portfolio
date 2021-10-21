@@ -6,7 +6,8 @@ Hey there! My Name is Jack, and I'm a YouTuber, Discord Bot Developer, and Moder
 
 ## Discord/Server Moderation:
 
-_One of the main things I like doing in Moderation for online communnities. Here are some examples of where I've been a moderator:_
+
+_One of the main things I like doing in Moderation for online communnities. Here are some examples of where I've been a moderator/still am a moderator:_
 
 
 ### Wardy's Discord Server:
@@ -15,7 +16,7 @@ This is the biggest server I currently hold a position on. I am one of the three
 
 ### HoaxMC:
 
-This is a Minecraft Server. It is owned by three large YouTubers, who go by the names Jelly, Slogo, and Crainer. With a combined total of over 20 million subscribers, this is their official Minecraft Server. I joined the HoaxMC Staff Team as a Trial Moderator back in June 2020, and worked my way through the staff ranks (Trial Mod, Moderator, Mod+) before getting promoted to a Senior Moderator in September 2020. I then remained as a Senior Moderator until May 2021, retiring after around 11 months on the team. You can check out the HoaxMC Discord Server [here](https://hoaxmc.com/discord)
+This is a Minecraft Server and Discord Server. It is owned by three large YouTubers, who go by the names Jelly, Slogo, and Crainer. With a combined total of over 20 million subscribers, this is their official Minecraft Server. I joined the HoaxMC Staff Team as a Trial Moderator back in June 2020, and worked my way through the staff ranks (Trial Mod, Moderator, Mod+) before getting promoted to a Senior Moderator in September 2020. I then remained as a Senior Moderator until May 2021, retiring after around 11 months on the team. You can check out the HoaxMC Discord Server [here](https://hoaxmc.com/discord)
 
 ### Jack's Hangout:
 
@@ -26,3 +27,19 @@ This is my personal server with 180 members. It is mainly for my [YouTube Channe
 This server belongs to my friend Emma. With over 220 members, it is an active server, with lots of people chatting each day. I am an administrator for Emma's Server. You can check out her server [here](https://discord.gg/sQvTCZh3UX)
 
 ## Discord Bot Development:
+
+
+_I also enjoy coding Discord Bots in the Discord.py Rewrite language. Here are some:_
+
+
+### Wardy Bot:
+
+The biggest server that one of my custom coded bots is in, is this one. When I first joined Wardy's Server, it was as a bot developer, as I was asked about a custom bot by one of the admins at the server. I made the custom bot, and it's since then that I joined the staff team, eventually reaching administrator. I still actively support, and host, this bot. It includes features such as: automatically deleting and banning for unsafe phising links; sending a DM to user's with answers to commonly asked questions if it detects key words in their message; a levelling system + level roles; and more! You can check out Wardy's Server [here](https://discord.gg/Zn7T36EKK5)
+
+### Jack's Bot:
+
+The custom bot I coded for my server. It has features such as: a currency system, where users can earn coins via commands such as /work and /allowance (I implement slash commands into the bot), and these coins can be used to purchase coloured roles in the /shop; a ticket system for staff, which includes ticket claiming, making tickets admin-only, ticket transcripts, and more; a suggestion system; mutes and bans for staff; plus more! You can check it out [here](https://discord.gg/2thPqQWJsR)
+
+### EzTickets:
+
+This is my public ticket support bot. It is designed to
