@@ -69,6 +69,6 @@ I currently have 380+ subscribers, 55,000+ views accross the whole channel, 1,30
 
 ## Summary:
 
-If you've read this portfolio, thank you! I hope that you can see and understand some of my key areas in online commmunities, moderation, and development - this hopefully shows that I am a suitable candidate for applying to servers, etc... If you want to reach out to me about this portfolio or something else, then you can join my Discord server [here](https://discord.gg/2thPqQWJsR), find the 🎟make-a-ticket🎟 channel, and open a ticket!
+If you've read this portfolio, thank you! I hope that you can see and understand some of my key areas in online commmunities, moderation, and development - this hopefully shows that I am a suitable candidate for applying to servers, etc... If you want to reach out to me about this portfolio or something else, then you can join my Discord server [here](https://discord.gg/2thPqQWJsR), find the 🎟make-a-ticket🎟 channel, and open a ticket! Have a good day!
 
-Have a good day!
+![Jack](https://cdn.discordapp.com/avatars/335076634908426252/a_913df709b30aad1fdb8f505d5e9cb891.gif)
