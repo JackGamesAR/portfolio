@@ -15,10 +15,14 @@ This is the biggest server I currently hold a position on. I am one of the three
 
 ### HoaxMC:
 
-This is a Minecraft Server. It is owned by three large YouTubers, who go by the names Jelly, Slogo, and MrCrainer. With a combined total of over 20 million subscribers, this is their official Minecraft Server. I joined the HoaxMC Staff Team as a Trial Moderator back in June 2020, and worked my way through the staff ranks (Trial Mod, Moderator, Mod+) before getting promoted to a Senior Moderator in September 2020. I then remained as a Senior Moderator until May 2021, retiring after around 11 months on the team. You can check out the HoaxMC Discord Server [here](https://hoaxmc.com/discord)
+This is a Minecraft Server. It is owned by three large YouTubers, who go by the names Jelly, Slogo, and Crainer. With a combined total of over 20 million subscribers, this is their official Minecraft Server. I joined the HoaxMC Staff Team as a Trial Moderator back in June 2020, and worked my way through the staff ranks (Trial Mod, Moderator, Mod+) before getting promoted to a Senior Moderator in September 2020. I then remained as a Senior Moderator until May 2021, retiring after around 11 months on the team. You can check out the HoaxMC Discord Server [here](https://hoaxmc.com/discord)
 
 ### Jack's Hangout:
 
-This is my personal server. It is mainly for my [YouTube Channel](https://youtube.com/JackGamesAndReviews), however it has an active and fun community, where people can chat, share memes, and also use my bot that I coded to complete "Jobs" to earn coins, in order to purchase coloured name roles! You can check out my server [here](https://discord.gg/2thPqQWJsR)
+This is my personal server with 180 members. It is mainly for my [YouTube Channel](https://youtube.com/JackGamesAndReviews), however it has an active and fun community, where people can chat, share memes, and also use my bot that I coded to complete "Jobs" to earn coins, in order to purchase coloured name roles! You can check out my server [here](https://discord.gg/2thPqQWJsR)
 
-### 
+### Veevs' World:
+
+This server belongs to my friend Emma. With over 220 members, it is an active server, with lots of people chatting each day. I am an administrator for Emma's Server. You can check out her server [here](https://discord.gg/sQvTCZh3UX)
+
+## Discord Bot Development:
