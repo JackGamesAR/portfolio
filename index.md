@@ -18,6 +18,10 @@ This is the biggest server I currently hold a position on. I am one of the three
 
 This is a Minecraft Server and Discord Server. It is owned by three large YouTubers, who go by the names Jelly, Slogo, and Crainer. With a combined total of over 20 million subscribers, this is their official Minecraft Server. I joined the HoaxMC Staff Team as a Trial Moderator back in June 2020, and worked my way through the staff ranks (Trial Mod, Moderator, Mod+) before getting promoted to a Senior Moderator in September 2020. I then remained as a Senior Moderator until May 2021, retiring after around 11 months on the team. You can check out the HoaxMC Discord Server [here](https://hoaxmc.com/discord)
 
+### MineSaga:
+
+This is a type of Discord server which has an amazing concept I've never seen elsewhere - Skyblock, but entirely via Discord. You can use grinders, go mining, use crates, fishing, etc... all via Discord commands, and receive server prizes for coming in the top 3. This server was previously a physical Minecraft server, but is now fully on Discord. It has over 22,000 members, and is a Discord partnered server - I am a helper there. You can check out Minesaga [here](https://discord.gg/minesaga) 
+
 ### Jack's Hangout:
 
 This is my personal server with 180 members. It is mainly for my [YouTube Channel](https://youtube.com/JackGamesAndReviews), however it has an active and fun community, where people can chat, share memes, and also use my bot that I coded to complete "Jobs" to earn coins, in order to purchase coloured name roles! You can check out my server [here](https://discord.gg/2thPqQWJsR)
