@@ -10,8 +10,11 @@ Hey there! My Name is Jack, and I'm a YouTuber, Discord Bot Developer, and Moder
 _These are my social details, in case you need to check something in a server, etc..._
 
 Email - jack@jackgames.net
+
 Discord - JackGames#0322 (ID - 335076634908426252)
+
 Minecraft Username - JackGamesAR (Previously known as ProfessorAdams)
+
 Other links/socials - [links.jackgames.net](https://links.jackgames.net)
 
 ## Discord/Server Moderation:
