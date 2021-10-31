@@ -4,6 +4,16 @@
 
 Hey there! My Name is Jack, and I'm a YouTuber, Discord Bot Developer, and Moderator/Admin for a number of large Discord communities! This is my "Portfolio" of sorts, where I'll discuss my experience and more! If you want to reach out to me, you can contact me via Discord, by joining my server [here](https://discord.gg/2thPqQWJsR) and making a ticket via the 🎟make-a-ticket🎟 channel!
 
+## Details:
+
+
+_These are my social details, in case you need to check something in a server, etc..._
+
+Email - jack@jackgames.net
+Discord - JackGames#0322 (ID - 335076634908426252)
+Minecraft Username - JackGamesAR (Previously known as ProfessorAdams)
+Other links/socials - [links.jackgames.net](https://links.jackgames.net)
+
 ## Discord/Server Moderation:
 
 
@@ -20,7 +30,7 @@ This is a Minecraft Server and Discord Server. It is owned by three large YouTub
 
 ### MineSaga:
 
-This is a type of Discord server which has an amazing concept I've never seen elsewhere - Skyblock, but entirely via Discord. You can use grinders, go mining, use crates, fishing, etc... all via Discord commands, and receive server prizes for coming in the top 3. This server was previously a physical Minecraft server, but is now fully on Discord. It has over 22,000 members, and is a Discord partnered server - I am a helper there. You can check out Minesaga [here](https://discord.gg/minesaga) 
+This is a type of Discord server which has an amazing concept I've never seen elsewhere - Skyblock, but entirely via Discord. You can use grinders, go mining, use crates, fishing, etc... all via Discord commands, and receive server prizes for coming in the top 3. This server was previously a physical Minecraft server, but is now fully on Discord. It has over 22,000 members, and is a Discord partnered server - I am a moderator there. You can check out Minesaga [here](https://discord.gg/minesaga) 
 
 ### Jack's Hangout:
 
@@ -72,6 +82,7 @@ I upload about 1-2 videos per month.
 I currently have 380+ subscribers, 55,000+ views accross the whole channel, 1,300 watch hours from viewers, and 300,000+ impressions (people who saw something to do with my channel, even if they didn't watch or click)
 
 ## Summary:
+
 
 If you've read this portfolio, thank you! I hope that you can see and understand some of my key areas in online commmunities, moderation, and development - this hopefully shows that I am a suitable candidate for applying to servers, etc... If you want to reach out to me about this portfolio or something else, then you can join my Discord server [here](https://discord.gg/2thPqQWJsR), find the 🎟make-a-ticket🎟 channel, and open a ticket! Have a good day!
 
