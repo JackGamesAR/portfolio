@@ -37,7 +37,7 @@ This is a type of Discord server which has an amazing concept I've never seen el
 
 ### Jack's Hangout:
 
-This is my personal server with 180 members. It is mainly for my [YouTube Channel](https://youtube.com/JackGamesAndReviews), however it has an active and fun community, where people can chat, share memes, and also use my bot that I coded to complete "Jobs" to earn coins, in order to purchase coloured name roles! You can check out my server [here](https://discord.gg/2thPqQWJsR)
+This is my personal server with over 200 members. It is mainly for my [YouTube Channel](https://youtube.com/JackGamesAndReviews), however it has an active and fun community, where people can chat, share memes, and also use my bot that I coded to complete "Jobs" to earn coins, in order to purchase coloured name roles! You can check out my server [here](https://discord.gg/2thPqQWJsR)
 
 ### Veevs' World:
 
