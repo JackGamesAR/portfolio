@@ -20,7 +20,7 @@ Other links/socials - [links.jackgames.net](https://links.jackgames.net)
 ## Discord/Server Moderation:
 
 
-_One of the main things I like doing in Moderation for online communnities. Here are some examples of where I've been a moderator/still am a moderator:_
+_One of the main things I like doing in Moderation for online communities. Here are some examples of where I've been a moderator/still am a moderator:_
 
 
 ### Wardy's Discord Server:
