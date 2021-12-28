@@ -17,6 +17,8 @@ Minecraft Username - JackGamesAR (Previously known as ProfessorAdams)
 
 Other links/socials - [links.jackgames.net](https://links.jackgames.net)
 
+Age: 15 (Birthday - 29th December 2005)
+
 ## Discord/Server Moderation:
 
 
@@ -25,7 +27,7 @@ _One of the main things I like doing in Moderation for online communities. Here 
 
 ### Wardy's Discord Server:
 
-This is the biggest server I currently hold a senior position on. I am one of the three administrator's for Wardy's Discord Server, which currently has over 21,000 members. I am also the developer of Wardy's custom Discord bot (more details about that later). You can check out his server [here](https://discord.gg/Zn7T36EKK5)
+This is the biggest server I currently hold a senior position on. I am one of the three administrator's for Wardy's Discord Server, which currently has over 20,000 members. I am also the developer of Wardy's custom Discord bot (more details about that later). You can check out his server [here](https://discord.gg/Zn7T36EKK5)
 
 ### HoaxMC:
 
@@ -33,7 +35,7 @@ This is a Minecraft Server and Discord Server. It is owned by three large YouTub
 
 ### MineSaga:
 
-This is a type of Discord server which has an amazing concept I've never seen elsewhere - Skyblock, but entirely via Discord. You can use grinders, go mining, use crates, fishing, etc... all via Discord commands, and receive server prizes for coming in the top 3. This server was previously a physical Minecraft server, but is now fully on Discord. It has over 22,000 members, and is a Discord partnered server - I am a moderator there. You can check out Minesaga [here](https://discord.gg/minesaga) 
+This is a type of Discord server which has an amazing concept I've never seen elsewhere - Skyblock, but entirely via Discord. You can use grinders, go mining, use crates, fishing, etc... all via Discord commands, and receive server prizes for coming in the top 3. This server was previously a physical Minecraft server, but is now fully on Discord. It has over 22,000 members, and is a Discord partnered server - I was a moderator there, however I resigned on the 27th December 2021, after a great few weeks on the team! You can check out Minesaga [here](https://discord.gg/minesaga) 
 
 ### Jack's Hangout:
 
@@ -82,7 +84,7 @@ I upload about 1-2 videos per month.
 
 ### Stats:
 
-I currently have 380+ subscribers, 55,000+ views accross the whole channel, 1,300 watch hours from viewers, and 300,000+ impressions (people who saw something to do with my channel, even if they didn't watch or click)
+I currently have 430+ subscribers, 65,000+ views accross the whole channel, 1,450+ watch hours from viewers, and 345,000+ impressions (people who saw something to do with my channel, even if they didn't watch or click)
 
 ## Summary:
 
