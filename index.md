@@ -17,7 +17,7 @@ Minecraft Username - JackGamesAR (Previously known as ProfessorAdams)
 
 Other links/socials - [links.jackgames.net](https://links.jackgames.net)
 
-Age: 15 (Birthday - 29th December 2005)
+Age: 16 (Birthday - 29th December 2005)
 
 ## Discord/Server Moderation:
 
