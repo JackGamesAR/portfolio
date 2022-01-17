@@ -27,7 +27,7 @@ _One of the main things I like doing in Moderation for online communities. Here 
 
 ### Wardy's Discord Server:
 
-This is the biggest server I currently hold a senior position on. I am one of the three administrator's for Wardy's Discord Server, which currently has over 20,000 members. I am also the developer of Wardy's custom Discord bot (more details about that later). You can check out his server [here](https://discord.gg/Zn7T36EKK5)
+This is the biggest server I currently hold a senior position on. I am one of the three administrator's for Wardy's Discord Server, which currently has over 19,000 members. I am also the developer of Wardy's custom Discord bot (more details about that later). You can check out his server [here](https://discord.gg/Zn7T36EKK5)
 
 ### HoaxMC:
 
