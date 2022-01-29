@@ -84,7 +84,7 @@ I upload about 1-2 videos per month.
 
 ### Stats:
 
-I currently have 430+ subscribers, 65,000+ views accross the whole channel, 1,450+ watch hours from viewers, and 345,000+ impressions (people who saw something to do with my channel, even if they didn't watch or click)
+I currently have 450+ subscribers, 65,000+ views accross the whole channel, 1,450+ watch hours from viewers, and 345,000+ impressions (people who saw something to do with my channel, even if they didn't watch or click)
 
 ## Summary:
 
