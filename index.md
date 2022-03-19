@@ -45,6 +45,10 @@ This is my personal server with over 200 members. It is mainly for my [YouTube C
 
 This server belongs to my friend Emma. With over 220 members, it is an active server, with lots of people chatting each day. I am an administrator for Emma's Server. You can check out her server [here](https://discord.gg/sQvTCZh3UX)
 
+### The Project Minecraft Server:
+
+Me and a few people I know on Discord are currently working on creating a Minecraft Server! This server will include many cool gamemodes, and we are currently in the phase of setting up plugins, worlds, moderation tools, etc... If you want to join the Discord Server to keep up to date on how it goes, you can join [here](https://discord.gg/jCvY94BB3Y)!
+
 ## Discord Bot Development:
 
 
