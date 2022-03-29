@@ -27,7 +27,7 @@ _One of the main things I like doing in Moderation for online communities. Here 
 
 ### Wardy's Discord Server:
 
-This is the biggest server I currently hold a senior position on. I am one of the three administrator's for Wardy's Discord Server, which currently has over 19,000 members. I am also the developer of Wardy's custom Discord bot (more details about that later). You can check out his server [here](https://discord.gg/Zn7T36EKK5)
+This is the biggest server I currently hold a senior position on. I am one of the three administrator's for Wardy's Discord Server, which currently has over 15,000 members. I am also the developer of Wardy's custom Discord bot (more details about that later). You can check out his server [here](https://discord.gg/Zn7T36EKK5)
 
 ### HoaxMC:
 
@@ -39,11 +39,11 @@ This is a type of Discord server which has an amazing concept I've never seen el
 
 ### Jack's Hangout:
 
-This is my personal server with over 200 members. It is mainly for my [YouTube Channel](https://youtube.com/JackGamesAndReviews), however it has an active and fun community, where people can chat, share memes, and also use my bot that I coded to complete "Jobs" to earn coins, in order to purchase coloured name roles! You can check out my server [here](https://discord.gg/2thPqQWJsR)
+This is my personal server with over 215 members. It is mainly for my [YouTube Channel](https://youtube.com/JackGamesAndReviews), however it has an active and fun community, where people can chat, share memes, and also use my bot that I coded to complete "Jobs" to earn coins, in order to purchase coloured name roles! You can check out my server [here](https://discord.gg/2thPqQWJsR)
 
-### Veevs' World:
+### The Neon Café:
 
-This server belongs to my friend Emma. With over 220 members, it is an active server, with lots of people chatting each day. I am an administrator for Emma's Server. You can check out her server [here](https://discord.gg/sQvTCZh3UX)
+This server belongs to my friend Emma. With over 450 members, it is an active server, with lots of people chatting each day. I am an administrator for this server. You can check out her server [here](https://discord.gg/sQvTCZh3UX)
 
 ### The Project Minecraft Server:
 
@@ -65,7 +65,11 @@ The custom bot I coded for my server. It has features such as: a currency system
 
 ### EzTickets:
 
-This is my public ticket support bot. It is designed to make setting up a ticket system very easy. All a user has to do is invite the bot to their server, type -setup, and the bot automatically creates a channel for opening tickets, and creates a role to give to people who can deal with tickets. When a ticket needs to be closed, they can use -close, and confirm the ticket closing by clicking a button (part of Discord's "button" feature, which this bot uses). It is currently in 48 servers, can be viewed on top.gg [here](https://top.gg/bot/859823886895677471) or via it's website - [eztickets.jackgames.net](https://eztickets.jackgames.net)
+This is my public ticket support bot. It is designed to make setting up a ticket system very easy. All a user has to do is invite the bot to their server, type -setup, and the bot automatically creates a channel for opening tickets, and creates a role to give to people who can deal with tickets. When a ticket needs to be closed, they can use -close, and confirm the ticket closing by clicking a button (part of Discord's "button" feature, which I have coded into my bot). It is currently in over 100 servers and can be viewed on top.gg [here](https://top.gg/bot/859823886895677471) or via its website - [eztickets.jackgames.net](https://eztickets.jackgames.net)
+
+EzTickets is also a **verified Discord bot**, meaning it was approved and verified by the Discord verification team. This means the bot doesn't have a server limit anymore, and also has the verified checkmark next to its name!
+
+![EzTickets](https://i.imgur.com/rJonCZF.png)
 
 ### VW Bot:
 
@@ -84,15 +88,13 @@ I generally upload videos from Hypixel Skyblock, such as explaining updates, cha
 
 ### Upload Schedule:
 
-I upload about 1-2 videos per month.
+I upload about once every few months.
 
 ### Stats:
 
-I currently have 450+ subscribers, 65,000+ views accross the whole channel, 1,450+ watch hours from viewers, and 345,000+ impressions (people who saw something to do with my channel, even if they didn't watch or click)
+I currently have 450+ subscribers, 75,000+ views accross the whole channel, 1,700+ watch hours from viewers, and 390,000+ impressions (people who saw something to do with my channel, even if they didn't watch or click)
 
 ## Summary:
 
 
 If you've read this portfolio, thank you! I hope that you can see and understand some of my key areas in online commmunities, moderation, and development - this hopefully shows that I am a suitable candidate for applying to servers, etc... If you want to reach out to me about this portfolio or something else, then you can join my Discord server [here](https://discord.gg/2thPqQWJsR), find the 🎟make-a-ticket🎟 channel, and open a ticket! Have a good day!
-
-![Jack](https://cdn.discordapp.com/avatars/335076634908426252/a_913df709b30aad1fdb8f505d5e9cb891.gif)
