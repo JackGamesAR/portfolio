@@ -71,9 +71,9 @@ EzTickets is also a **verified Discord bot**, meaning it was approved and verifi
 
 ![EzTickets](https://i.imgur.com/rJonCZF.png)
 
-### VW Bot:
+### Neon Support:
 
-This is a custom bot for my friend Emma's server. It is used for the ticket system in her server. It is similar to the ticket system in my server (Jack's Hangout), but without the other feautures, besides the ticket system. You can check it out [here](https://discord.gg/sQvTCZh3UX)
+This is a custom bot I made for my friend Emma's server (The Neon Café). It is used for the ticket system in her server. It is similar to the ticket system in my server (Jack's Hangout), but without the non-ticket related features. You can check it out [here](https://discord.gg/sQvTCZh3UX)
 
 ## YouTube!
 
