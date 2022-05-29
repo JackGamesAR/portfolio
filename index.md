@@ -43,7 +43,7 @@ This is my personal server with over 215 members. It is mainly for my [YouTube C
 
 ### The Neon Café:
 
-This server belongs to my friend Emma. With over 450 members, it is an active server, with lots of people chatting each day. I am an administrator for this server. You can check out her server [here](https://discord.gg/sQvTCZh3UX)
+This server belongs to my friend Emma. With over 700 members, it is an active server, with lots of people chatting each day. I am an administrator for this server. You can check out her server [here](https://discord.gg/sQvTCZh3UX)
 
 ### The Project Minecraft Server:
 
@@ -63,13 +63,19 @@ The biggest server that one of my custom coded bots is in, is this one. When I f
 
 The custom bot I coded for my server. It has features such as: a currency system, where users can earn coins via commands such as /work and /allowance (I implement slash commands into the bot), and these coins can be used to purchase coloured roles in the /shop; a ticket system for staff, which includes ticket claiming, making tickets admin-only, ticket transcripts, and more; a suggestion system; mutes and bans for staff; plus more! You can check it out [here](https://discord.gg/2thPqQWJsR)
 
-### EzTickets:
+### Ez Tickets:
 
 This is my public ticket support bot. It is designed to make setting up a ticket system very easy. All a user has to do is invite the bot to their server, type -setup, and the bot automatically creates a channel for opening tickets, and creates a role to give to people who can deal with tickets. When a ticket needs to be closed, they can use -close, and confirm the ticket closing by clicking a button (part of Discord's "button" feature, which I have coded into my bot). It is currently in over 100 servers and can be viewed on top.gg [here](https://top.gg/bot/859823886895677471) or via its website - [eztickets.jackgames.net](https://eztickets.jackgames.net)
 
-EzTickets is also a **verified Discord bot**, meaning it was approved and verified by the Discord verification team. This means the bot doesn't have a server limit anymore, and also has the verified checkmark next to its name!
+Ez Tickets is also a **verified Discord bot**, meaning it was approved and verified by the Discord verification team. This means the bot doesn't have a server limit anymore, and also has the verified checkmark next to its name!
 
-![EzTickets](https://i.imgur.com/rJonCZF.png)
+![Ez Tickets](https://i.imgur.com/rJonCZF.png)
+
+### Ez Reports:
+
+This is my newest public bot, development on it is set to begin in late June 2022/early July 2022. It will make it easier for server members to report someone else who has broke the rules, and will use new Discord features to make this easier!
+
+You can join the support server via its website, to keep up to date with early access and updates: [ezreports.jackgames.net](https://ezreports.jackgames.net).
 
 ### Neon Support:
 
@@ -92,7 +98,7 @@ I upload about once every few months.
 
 ### Stats:
 
-I currently have 450+ subscribers, 75,000+ views accross the whole channel, 1,700+ watch hours from viewers, and 390,000+ impressions (people who saw something to do with my channel, even if they didn't watch or click)
+I currently have 500+ subscribers, 85,000+ views accross the whole channel, 1,900+ watch hours from viewers, and 420,000+ impressions (people who saw something to do with my channel, even if they didn't watch or click)
 
 ## Summary:
 
